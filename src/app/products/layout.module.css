@@ -1,0 +1,10 @@
+.productNav{
+  display: flex;
+  padding: 12px 12px;
+  border: 2px solid plum;
+
+}
+
+.productNav a {
+  padding: 0px 8px;
+}
